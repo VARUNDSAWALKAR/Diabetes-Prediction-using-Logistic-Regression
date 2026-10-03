@@ -98,4 +98,4 @@ specific population, so the model is suitable for learning classification concep
 medical diagnosis.
 
 ## Author
-VARUN D SAWALKAR, [GitHub profile](https://github.com/<VARUNDSAWALKAR>)
+VARUN D SAWALKAR, [GitHub profile](https://github.com/VARUNDSAWALKAR)
